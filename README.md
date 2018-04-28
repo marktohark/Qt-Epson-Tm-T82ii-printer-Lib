@@ -1,11 +1,11 @@
 # Qt Epson Tm T82ii printer Lib
-This is TM-T82II(EPSON) printer LIB,use Qt lib
-lib is easy,jsut include header.
-the func detail is in header.
-p.s. if you want add new commands,you can following url:
+This is TM-T82II(EPSON) printer LIB,use Qt lib.  
+lib is easy,jsut include header.  
+the func detail is in header.  
+p.s. if you want add new commands,you can following url:  
 https://reference.epson-biz.com/modules/ref_escpos/index.php?content_id=72
 
-and add in *.cpp
+and modify in *.cpp  
 
 # code example:
 ```
